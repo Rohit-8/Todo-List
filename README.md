@@ -11,7 +11,7 @@ npm install
 ```
 node app.js <OR> nodemon app.js
 ```
-# Now got to browser and type localhost:3000 to run the project.
+# Now go to the browser and type localhost:3000 to run the project.
 
 ```
 localhost:3000
